@@ -1,7 +1,9 @@
 
-# run the web app locally
+# SnippetBox
 
-go run ./cmd/web
+A website for users to add snippets/notes.
+
+This website is built step by step using [LET’S GO BOOK ](https://lets-go.alexedwards.net/) guide.
 
 
-# db
+![plot](./preview/home.png)
